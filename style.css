@@ -1,0 +1,44 @@
+.signup-body{
+    background-color: #000000;
+    color: #ffffff;
+}
+.h1-custom{
+    font-size: 2em;
+}
+.signup-body{
+    width: 80%;
+    margin: 0 auto;
+}
+.index-main{
+    background-color: #000000;
+}
+
+.doc-div{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 10px;    
+}
+.custom-eventCreate{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.custom-margin-top-5px{
+    margin-top:5px;
+}
+
+.post-custom{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.post-header-custom{
+    margin-top:20px;
+    font-size: 1.8em;
+    background-color: #212529;
+    color: #ffffff;
+    border-color: #212529;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+}
